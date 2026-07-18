@@ -234,6 +234,10 @@ article.text-body blockquote {
   font-style: italic;
 }
 
+article.text-body p {
+  text-align: justify;
+}
+
 .sources {
   margin-top: 2.4rem;
   padding-top: 1.2rem;
