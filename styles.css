@@ -47,6 +47,7 @@ a:hover { color: var(--color-gold); }
     linear-gradient(180deg, var(--color-green) 0%, var(--color-green-deep) 100%);
   color: var(--color-bg);
   padding: 3.2rem 1.5rem 2.6rem;
+  text-align: center;
   border-bottom: 6px solid var(--color-gold);
 }
 
