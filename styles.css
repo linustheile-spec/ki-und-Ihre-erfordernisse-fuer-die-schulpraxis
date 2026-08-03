@@ -3,15 +3,15 @@
    ========================================================================== */
 
 :root {
-  --color-bg: #faf6ec;
-  --color-paper: #fffdf8;
-  --color-ink: #1f2a24;
-  --color-ink-soft: #4a564e;
-  --color-green: #1b3a2f;
-  --color-green-deep: #0f231b;
-  --color-gold: #a97d3a;
-  --color-gold-soft: #cfa86b;
-  --color-line: #ddd3bd;
+  --color-bg: #f3efe6;
+  --color-paper: #faf8f3;
+  --color-ink: #24262b;
+  --color-ink-soft: #5a5a52;
+  --color-green: #16283f;
+  --color-green-deep: #16283f;
+  --color-gold: #b08d3f;
+  --color-gold-soft: #9a3444;
+  --color-line: #d8d2c3;
   --font-display: "Fraunces", Georgia, serif;
   --font-body: "Source Serif 4", Georgia, serif;
   --max-width: 1100px;
@@ -238,6 +238,8 @@ article.text-body blockquote {
 article.text-body p {
   text-align: justify;
 }
+
+
 
 .sources {
   margin-top: 2.4rem;
